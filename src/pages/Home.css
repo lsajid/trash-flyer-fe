@@ -1,0 +1,13 @@
+.home {
+    align-items: center;
+    text-align: center;
+    padding: 50px 0 50px;
+}
+
+.splash-image img {
+    display: block;
+    height: 70vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 60%;
+  }
