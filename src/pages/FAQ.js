@@ -3,7 +3,27 @@ import Question from "../components/Question";
 
 function FAQ() {
   return (
-    <div>FAQ</div>
+    <div className='faq-container'>
+
+      <section className='question'>
+      </section>
+
+      <section className='question'>
+      </section>
+
+      <section className='question'>
+      </section>
+
+      <section className='question'>
+      </section>
+
+      <section className='question'>
+      </section>
+      
+      <section className='question'>
+      </section>
+
+    </div>
   )
 }
 
