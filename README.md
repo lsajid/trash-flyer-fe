@@ -11,12 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 An educational effort plays an important role in the “Solid Waste Management Plan”, as the effort promotes the continuation of proper disposal at recycling stations. Executing a successful educational campaign will help faculty, students, and staff recognize the role that they play within the solid waste process. The educational campaign will advise individuals to make certain changes regarding consumer waste disposal. This will facilitate an understanding and establish communication with other faculty and students. A website containing the information stated above will be placed nearby CCNY recycling stations. Individuals will be able to access the site using a QR code. Additionally, pamphlets with information will be placed inside faculty departments to encourage proper disposal of solid waste.
 
-
-
 ### `How to view the page?`
 
 Students and faculty can scan the QR code which will lead to the following educational program.
-Click the link here ---> [http://localhost:3000](http://localhost:3000) to view.
+Click the link here ---> [https://strong-kitten-533788.netlify.app/](https://strong-kitten-533788.netlify.app/) to view.
 
 ## `How did we start and what did the process look like?`
 
