@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# What is this for?
+This is for a senior design project at the City College of New York.
+
+The solid waste management program of CCNY is complex and multifaceted. There is a chain of participants and processes; the individual disposes of their waste, the custodial staff collects it and places it in the proper container, then external companies transport it to the proper facility. Improving any point of this process would result in the optimisation of the overall solid waste management system.
+![Example of a completed application.](./src/images/readMeImage.png)
+It is, therefore, necessary that the process of solid waste management be optimized in order to work best with the college’s available resources. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Why is an educational effort important?
 
-In the project directory, you can run:
+An educational effort plays an important role in the “Solid Waste Management Plan”, as the effort promotes the continuation of proper disposal at recycling stations. Executing a successful educational campaign will help faculty, students, and staff recognize the role that they play within the solid waste process. The educational campaign will advise individuals to make certain changes regarding consumer waste disposal. This will facilitate an understanding and establish communication with other faculty and students. A website containing the information stated above will be placed nearby CCNY recycling stations. Individuals will be able to access the site using a QR code. Additionally, pamphlets with information will be placed inside faculty departments to encourage proper disposal of solid waste.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `How to view the page?`
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Students and faculty can scan the QR code which will lead to the following educational program.
+Click the link here ---> [http://localhost:3000](http://localhost:3000) to view.

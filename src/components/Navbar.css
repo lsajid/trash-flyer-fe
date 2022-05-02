@@ -1,6 +1,6 @@
 header {
     align-items: center;
-    background: var(--primary);
+    background: #6EB257 ;
     border-bottom: 3px solid var(--white);
     display: flex;
     padding: 25px 15% 35px;

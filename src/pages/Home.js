@@ -1,15 +1,24 @@
 import React from 'react';
 import "./Home.css";
-import recycle from "../images/recycle.png"
+import recycle from "../images/recycle.png";
+
 function Home() {
   return (
-    <div className='home'>
-        <p>College campuses are a significant source of solid municipal waste, from containers and paper disposed of by students to cardboard boxes and technology disposed of by staff. As such, in order to reduce its environmental impact, City College needs to continue and focus on a successful solid waste management program.</p>
-        <section>
+    <div className='home-container'>
+        <section className='home-image'>
+            <p>NYC DSNY Recyle Poster</p>
             <img src={recycle} alt="recycle"/>
+        </section>
+        <section>
+          <p>
+
+          </p>
+          <p>
+
+          </p>
         </section>
     </div>
   )
 }
 
-export default Home
+export default Home;
