@@ -1,13 +1,27 @@
-.home {
+.home-container{
+    background-color: #f28123;
+}
+
+.page-layout {
+    display: flex;
     align-items: center;
+    /* justify-content: space-between; */
     text-align: center;
     padding: 50px 0 50px;
 }
 
-.splash-image img {
-    display: block;
-    height: 70vh;
+.top-text {
     width: 100%;
-    object-fit: cover;
-    object-position: 50% 60%;
-  }
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+    padding-left: 25px;
+
+}
+
+
+
+/* 
+.image-container {
+height: 100%;
+} */
