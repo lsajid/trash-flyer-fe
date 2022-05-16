@@ -1,22 +1,30 @@
 import React from "react";
 import "./Home.css";
 import recycle from "../images/recycle.png";
+import img1 from '../imagesSite/img1.png';
+import img2 from '../imagesSite/img2.png';
+import img3 from '../imagesSite/img3.png';
+import img4 from '../imagesSite/img4.png';
+import img5 from '../imagesSite/img5.png';
+import img6 from '../imagesSite/img6.png';
+import img7 from '../imagesSite/img7.png';
+
 function Home() {
   return (
     <div className="home-container">
+      <h1>Our Proposition</h1>
+      <img src={img1} alt="recycle" />
       <div className="top-text">
-        <h2>
+        <h3>
           College campuses are a huge source of solid municipal waste.
           From containers and paper disposed of by students to cardboard boxes
           and technology disposed of by staff. In order to reduce its
           environmental impact, it is recommended that CCNY modifies the current process.
-        </h2>
+        </h3>
       </div>
+      <img src={img2} alt="recycle" />
+      <img src={img5} alt="recycle" />
       <div className="page-layout">
-        <div className="image-container">
-            <img src={recycle} alt="recycle" />
-        </div>
-
         <div className="text-container">
           <p>
             The average person in the United States generates almost 5 pounds of solid waste per day 
@@ -25,6 +33,7 @@ function Home() {
             and it also reduces the amount of solid waste that is sent to the landfill.
           </p>
           <br />
+          
           <br />
           <p>
             Upon investigation, elevator diagrams were used to obtain a visual representation of trash and 
@@ -38,8 +47,10 @@ function Home() {
             These findings proved to be useful when comparing the NAC area to other campus locations. Based on these investigations, 
             it was concluded that each building on campus operates differently and is not managed by a uniform plan. 
           </p>
+          <img src={img4} alt="recycle" />
           <br />
           <br />
+          <img src={img6} alt="recycle" />
           <p>
             CUNYfirst was used to obtain daily attendance data. The schools database was parsed to obtain the number of 
             students in each fully in-person class, multiplied by the number of times that class met each week. 
@@ -48,6 +59,7 @@ function Home() {
             there was no way to account for visitors who enter the building to use the library, visit a professor, or purchase food in the NAC 
             Rotunda. As such, we will use the assumption that the overestimation accommodates these students who are unaccounted for.
           </p>
+          <img src={img7} alt="recycle" />
           <p>
             Faculty was not accounted for in this process, 
             because most professors have their own offices. In the preliminary tour in Fall 2021, 
