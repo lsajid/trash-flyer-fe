@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className="home-container">
       <h1>Our Proposition</h1>
-      <img src={img1} alt="recycle" />
+      <img src={img1} alt="recycle" className="img1" />
       <div className="top-text">
         <h3>
           College campuses are a huge source of solid municipal waste.
@@ -20,8 +20,8 @@ function Home() {
           environmental impact, it is recommended that CCNY modifies the current process.
         </h3>
       </div>
-      <img src={img2} alt="recycle" />
-      <img src={img5} alt="recycle" />
+      <img src={img2} alt="recycle" className="img2"/>
+      <img src={img5} alt="recycle" className="img5"/>
       <div className="page-layout">
         <div className="text-container">
           <p>
@@ -45,10 +45,10 @@ function Home() {
             These findings proved to be useful when comparing the NAC area to other campus locations. Based on these investigations, 
             it was concluded that each building on campus operates differently and is not managed by a uniform plan. 
           </p>
-          <img src={img4} alt="recycle" />
+          <img src={img4} alt="recycle" className="img4"/>
           <br />
           <br />
-          <img src={img6} alt="recycle" />
+          <img src={img6} alt="recycle" className="img6"/>
           <p>
             CUNYfirst was used to obtain daily attendance data. The schools database was parsed to obtain the number of 
             students in each fully in-person class, multiplied by the number of times that class met each week. 
@@ -57,7 +57,7 @@ function Home() {
             there was no way to account for visitors who enter the building to use the library, visit a professor, or purchase food in the NAC 
             Rotunda. As such, we will use the assumption that the overestimation accommodates these students who are unaccounted for.
           </p>
-          <img src={img7} alt="recycle" />
+          <img src={img7} alt="recycle" className="img7"/>
           <p>
             Faculty was not accounted for in this process, 
             because most professors have their own offices. In the preliminary tour in Fall 2021, 
