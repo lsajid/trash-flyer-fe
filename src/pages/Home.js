@@ -89,7 +89,7 @@ function Home() {
             </p>
           </div>
           <h2>Thank You!</h2>
-          <img src={imgUs1} alt="recycle" className="img7"/>
+          <img src={imgUs1} alt="recycle" className="imgUs"/>
         </div>
         
       </div>
