@@ -4,7 +4,6 @@
   --black: #141115;
   --white: #fffcf9;
   --primary: #32896d;
-
 }
 
 body {
@@ -13,7 +12,7 @@ body {
   font-size: 16px;
   margin: 0;
   padding: 0;
-  background-color: #d495a2;
+  opacity: 90;
 }
 
 h1,

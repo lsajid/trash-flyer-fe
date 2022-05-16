@@ -38,7 +38,7 @@ function Home() {
           </div>
 
           <br />
-          <img src={imgUs3} alt="recycle" className="img7"/>
+          <img src={imgUs3} alt="recycle" className="imgUs"/>
           <br />
           <div className="low-text">
           <p>
