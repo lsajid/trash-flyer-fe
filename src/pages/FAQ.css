@@ -3,9 +3,9 @@
     padding: 20px;
     align-items: center;
     justify-content: center;
-    background-color: #f28123;
+    background-color: #DDD8C4;
     border-radius: 15px;
-    color: #EFF1F3;
+    color: #282e34;
 }
 .faq-title-container{
     text-align: center;
@@ -17,7 +17,7 @@
     margin: 0 auto;
 }
 .question-container{
-    background-color: #563F1B;
+    background-color: #a4cdc5;
     margin: 20px;
     padding: 10px;
     border-radius: 15px;

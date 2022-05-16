@@ -43,7 +43,7 @@ function Form() {
           value={review.name}
           type="text"
           onChange={handleTextChange}
-          placeholder="Name of Website"
+          placeholder="Enter Name"
           required
         />
         <label htmlFor="message">Message:</label>
@@ -52,7 +52,7 @@ function Form() {
           type="text"
           required
           value={review.url}
-          placeholder="http://"
+          placeholder="Enter Message"
           onChange={handleTextChange}
         />
         <br />
