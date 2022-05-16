@@ -36,8 +36,7 @@ h6 {
     display: flex;
     align-items: center;
     background: #2a7cce;
-    border-bottom: 3px solid var(--white);
-    width: 100vw;
+    border-bottom: 2px solid var(--white);
   }
   
   .logo img {
@@ -50,19 +49,14 @@ h6 {
     color: #EFF1F3;
   }
   
-  .title h1 {
-    font-size: 36px;
+  .title h1 a {
+    font-size: 30px;
   }
   
-  .title span {
-    font-size: 24px;
-    font-weight: 300;
-  }
   
   .links {
     display: flex;
     flex-wrap: wrap;
-  
   }
   
   .links ul {
@@ -71,13 +65,14 @@ h6 {
   
   .links li{
     display: inline-block;
-    padding-right: 4px ;
-    font-size: 20px;
+    padding-right: 4px;
+    font-size: 15px;
   }
   
   .links li a {
     text-decoration: none;
     color: #EFF1F3;
+    font-size: 15px;
   }
   
   .links li a:hover{
