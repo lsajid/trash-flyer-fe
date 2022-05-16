@@ -26,11 +26,7 @@ h6 {
   font-weight: 600;
 }
 
-.wrapper {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  min-height: 100vh;
-}
+
 
 @media only screen and (max-width: 600px) {
   body {
@@ -92,21 +88,17 @@ h6 {
   
   .home-container{
     background-color: #DDD8C4;
-    margin:30px;
-    padding: 30px;
-    border-radius: 15px;
-    width: 100%;
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
     justify-content: center;
     align-items: center;
-    padding-bottom: 25px;
-    padding-left: 25px;
 }
   .home-container img {
     height: max-content;
   }
-  .img1, .img2, .img5, .img4, .img6, .img7 img{
-    width: 50%;
-    height: auto;
+  .img1, .img2, .img5, .img4, .img6,  img{
+    width: 100%;
   } 
 .page-layout {
     display: flex;
@@ -120,7 +112,12 @@ h6 {
     width: 100%;
     justify-content: center;
     align-items: center;
-    padding-bottom: 25px;
+    padding-bottom: 10px;
     padding-left: 25px;
+}
+.low-text{
+  width: 400px;
+  overflow: hidden;
+  text-overflow: ellipsis; 
 }
 }
