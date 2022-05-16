@@ -1,9 +1,7 @@
 import React from "react";
 import "./Home.css";
-import recycle from "../images/recycle.png";
 import img1 from '../imagesSite/img1.png';
 import img2 from '../imagesSite/img2.png';
-import img3 from '../imagesSite/img3.png';
 import img4 from '../imagesSite/img4.png';
 import img5 from '../imagesSite/img5.png';
 import img6 from '../imagesSite/img6.png';
