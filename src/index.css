@@ -28,7 +28,7 @@ h6 {
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
   body {
     background-color: rgb(79, 101, 108);
   }
