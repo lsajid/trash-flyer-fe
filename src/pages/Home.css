@@ -21,3 +21,20 @@
     padding-left: 25px;
 }
 
+
+.top-text {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}
+.low-text{
+  width: 250px;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+.home-container img{
+  width: 100%;
+  height:auto;
+}
