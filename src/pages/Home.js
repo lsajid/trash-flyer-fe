@@ -8,6 +8,8 @@ import img6 from '../imagesSite/img6.png';
 import img7 from '../imagesSite/img7.png';
 import img8 from '../imagesSite/img8.png';
 
+import recycle from '../images/recycle.png'
+
 import imgUs1 from '../imagesGroup/imgUs1.JPG';
 import imgUs3 from '../imagesGroup/imgUs3.jpg';
 
@@ -36,7 +38,7 @@ function Home() {
             and it also reduces the amount of solid waste that is sent to the landfill.
           </p>
           </div>
-
+          <img src={recycle} alt="recycle" className="imgUs"/>
           <br />
           <img src={imgUs3} alt="recycle" className="imgUs"/>
           <br />
